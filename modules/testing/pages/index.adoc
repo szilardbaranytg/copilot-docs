@@ -138,7 +138,7 @@ All options below default to `all`.
 ¦ `OGB_MAG`
 ¦ The academic paper dataset provided by: https://ogb.stanford.edu/docs/nodeprop/#ogbn-mag.
 
-¦  `DigtialInfra`
+¦  `DigitalInfra`
 ¦  Digital infrastructure digital twin dataset.
 
 ¦ `Synthea`
